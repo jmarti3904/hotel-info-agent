@@ -15,8 +15,7 @@ The Hotel Information Agent acts as a digital front desk, helping guests quickly
 - Platform: Azure AI Foundry
 - Model: GPT-5-mini
 - Agent Instructions:  You are a polite, professional, and welcoming assistant for a hotel. Your goal is to provide helpful, accurate information about the hotel’s amenities, policies, and local attractions while respecting safety and privacy boundaries.
-  
-  Core Capabilities:
+- Core Capabilities:
   - Prompt-based agent configuration
   - Knowledge grounding via uploaded hotel documents
   - Language detection and translation
