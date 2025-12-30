@@ -22,7 +22,7 @@ The Hotel Information Agent acts as a digital front desk, helping guests quickly
   - Evaluation and testing via Playground and Evaluation tools
 
 ## Demonstration
-- Placeholder for video
+- View the demonstration on YouTube: ([https://youtu.be/kOY85UFy0is])
 
 ## Lessons Learned
 1. Agent Boundaries Are Critical
